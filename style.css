@@ -100,7 +100,7 @@ form label {
 }
 
 form select,
-form input.form {
+form input {
   margin-bottom: 20px;
   width: 180px;
 }
