@@ -2,7 +2,7 @@
 
 body {
   font-family: "Lato", sans-serif;
-  color: #6b1a22;
+  color: #0b2027;
 }
 
 h2 {
@@ -27,8 +27,12 @@ section {
 }
 
 section.alternate-background {
-  background-color: #a35766;
-  color: #ecdbc9;
+  background-color: #b6efd4;
+  color: #747274;
+}
+
+img {
+  border-radius: 2%;
 }
 
 main img {
@@ -54,7 +58,7 @@ main img {
 /* -------  Navigation ------- */
 
 header {
-  background-color: #83092e;
+  background-color: #0b2027;
   padding: 20px 20px 0 20px;
   text-align: center;
 }
@@ -74,7 +78,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: #ecdbc9;
+  color: #747274;
   text-decoration: none;
   padding: 0 20px 0 0;
 }
@@ -87,11 +91,11 @@ header nav ul li a:hover {
 .logo {
   font-family: "Tangerine", cursive;
   font-size: 72px;
-  color: #ecdbc9;
+  color: #747274;
 }
 /* -------  Join Form ------- */
 form {
-  border: 2px solid #6b1a22;
+  border: 2px solid #0b2027;
   padding: 10px;
 }
 
@@ -106,7 +110,7 @@ form input {
 }
 
 form button {
-  background-color: #83092e;
+  background-color: #0b2027;
   border: none;
   color: #fff;
   font-size: 24px;
@@ -121,7 +125,7 @@ form button {
 /* -------  Footer ------- */
 
 footer {
-  background-color: #83092e;
+  background-color: #0b2027;
 }
 
 footer p {
